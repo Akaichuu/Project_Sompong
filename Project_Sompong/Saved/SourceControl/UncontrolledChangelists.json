@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/veridian/unityeiei/git/Project_Sompong/Project_Sompong/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset",
+				"E:/veridian/unityeiei/git/Project_Sompong/Project_Sompong/Content/NewMap.umap",
+				"E:/veridian/unityeiei/git/Project_Sompong/Project_Sompong/Content/Level/NewMap.umap",
+				"E:/veridian/unityeiei/git/Project_Sompong/Project_Sompong/Content/Level/testLevel.umap",
 				"F:/unreal/Project_Sompong/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
