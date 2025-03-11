@@ -1,0 +1,41 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/veridian/unityeiei/git/Project_Sompong/Project_Sompong/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"E:/veridian/unityeiei/git/Project_Sompong/Project_Sompong/Content/model/Texture_MainChar/MainCha_base_lambert1_BaseColor.uasset",
+				"E:/veridian/unityeiei/git/Project_Sompong/Project_Sompong/Content/model/Texture_MainChar/MainCha_base_lambert1_Normal.uasset",
+				"E:/veridian/unityeiei/git/Project_Sompong/Project_Sompong/Content/model/Texture_MainChar/MainCha_base_lambert1_OcclusionRoughnessMetallic.uasset",
+				"E:/veridian/unityeiei/git/Project_Sompong/Project_Sompong/Content/model/Texture_MainChar/MainCha_base_standardSurface1_BaseColor.uasset",
+				"E:/veridian/unityeiei/git/Project_Sompong/Project_Sompong/Content/model/Texture_MainChar/MainCha_base_standardSurface1_Normal.uasset",
+				"E:/veridian/unityeiei/git/Project_Sompong/Project_Sompong/Content/model/Texture_MainChar/MainCha_base_standardSurface1_OcclusionRoughnessMetallic.uasset",
+				"E:/veridian/unityeiei/git/Project_Sompong/Project_Sompong/Content/model/Texture_MainChar/MainCha_base_std002_BaseColor.uasset",
+				"E:/veridian/unityeiei/git/Project_Sompong/Project_Sompong/Content/model/Texture_MainChar/MainCha_base_std002_Normal.uasset",
+				"E:/veridian/unityeiei/git/Project_Sompong/Project_Sompong/Content/model/Texture_MainChar/MainCha_base_std002_OcclusionRoughnessMetallic.uasset",
+				"E:/veridian/unityeiei/git/Project_Sompong/Project_Sompong/Content/model/standardSurface1.uasset",
+				"E:/veridian/unityeiei/git/Project_Sompong/Project_Sompong/Content/model/lambert1.uasset",
+				"E:/veridian/unityeiei/git/Project_Sompong/Project_Sompong/Content/model/std002.uasset",
+				"E:/veridian/unityeiei/git/Project_Sompong/Project_Sompong/Content/model/MainChar/Texture_MainChar/MainCha_base_std002_OcclusionRoughnessMetallic.uasset",
+				"E:/veridian/unityeiei/git/Project_Sompong/Project_Sompong/Content/model/MainChar/Texture_MainChar/MainCha_base_std002_Normal.uasset",
+				"E:/veridian/unityeiei/git/Project_Sompong/Project_Sompong/Content/model/MainChar/Texture_MainChar/MainCha_base_std002_BaseColor.uasset",
+				"E:/veridian/unityeiei/git/Project_Sompong/Project_Sompong/Content/model/MainChar/Texture_MainChar/MainCha_base_standardSurface1_OcclusionRoughnessMetallic.uasset",
+				"E:/veridian/unityeiei/git/Project_Sompong/Project_Sompong/Content/model/MainChar/Texture_MainChar/MainCha_base_standardSurface1_Normal.uasset",
+				"E:/veridian/unityeiei/git/Project_Sompong/Project_Sompong/Content/model/MainChar/Texture_MainChar/MainCha_base_standardSurface1_BaseColor.uasset",
+				"E:/veridian/unityeiei/git/Project_Sompong/Project_Sompong/Content/model/MainChar/Texture_MainChar/MainCha_base_lambert1_OcclusionRoughnessMetallic.uasset",
+				"E:/veridian/unityeiei/git/Project_Sompong/Project_Sompong/Content/model/MainChar/Texture_MainChar/MainCha_base_lambert1_Normal.uasset",
+				"E:/veridian/unityeiei/git/Project_Sompong/Project_Sompong/Content/model/MainChar/Texture_MainChar/MainCha_base_lambert1_BaseColor.uasset",
+				"E:/veridian/unityeiei/git/Project_Sompong/Project_Sompong/Content/model/bossT.uasset",
+				"E:/veridian/unityeiei/git/Project_Sompong/Project_Sompong/Content/model/MainChar/CH_T.uasset",
+				"E:/veridian/unityeiei/git/Project_Sompong/Project_Sompong/Content/model/CH_T.uasset",
+				"E:/veridian/unityeiei/git/Project_Sompong/Project_Sompong/Content/model/MainChar/lambert1.uasset",
+				"E:/veridian/unityeiei/git/Project_Sompong/Project_Sompong/Content/model/MainChar/standardSurface1.uasset",
+				"E:/veridian/unityeiei/git/Project_Sompong/Project_Sompong/Content/model/MainChar/std002.uasset",
+				"E:/veridian/unityeiei/git/Project_Sompong/Project_Sompong/Content/model/Enemykiki/bossT.uasset",
+				"E:/veridian/unityeiei/git/Project_Sompong/Project_Sompong/Content/model/Enemykiki/NewMaterial.uasset"
+			]
+		}
+	]
+}
