@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/Project_Sompong/Project_Sompong/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"E:/Project_Sompong/Project_Sompong/Content/MyMap/Maps/BossFight.umap",
+				"E:/Project_Sompong/Project_Sompong/Content/__ExternalActors__/MyMap/Maps/Level_Design/6/NP/Z879AEIEEKUZFZ9R3VBXW5.uasset",
 				"E:/veridian/unityeiei/git/Project_Sompong/Project_Sompong/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"E:/veridian/unityeiei/git/Project_Sompong/Project_Sompong/Content/model/MainChar/Texture_MainChar/MainCha_base_std002_OcclusionRoughnessMetallic.uasset",
 				"E:/veridian/unityeiei/git/Project_Sompong/Project_Sompong/Content/model/MainChar/Texture_MainChar/MainCha_base_std002_Normal.uasset",
