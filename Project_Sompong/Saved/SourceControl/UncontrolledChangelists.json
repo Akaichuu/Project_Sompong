@@ -1,0 +1,39 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/veridian/unityeiei/git/Project_Sompong/Project_Sompong/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"E:/veridian/unityeiei/git/Project_Sompong/Project_Sompong/Content/__ExternalActors__/MyMap/Maps/Level_Design/6/0M/K84ORTTQAN24923U56IBPW.uasset",
+				"E:/veridian/unityeiei/git/Project_Sompong/Project_Sompong/Content/__ExternalActors__/MyMap/Maps/Level_Design/7/68/A6PLRY7UCL2XYCS1XSECYP.uasset",
+				"E:/veridian/unityeiei/git/Project_Sompong/Project_Sompong/Content/__ExternalActors__/MyMap/Maps/Level_Design/6/X6/24F1RUZLXJF584ME5VFE6T.uasset",
+				"E:/veridian/unityeiei/git/Project_Sompong/Project_Sompong/Content/__ExternalActors__/MyMap/Maps/Level_Design/9/D8/NHQJV9ITJ2NB8ZC0KFPR0N.uasset",
+				"E:/veridian/unityeiei/git/Project_Sompong/Project_Sompong/Content/__ExternalActors__/MyMap/Maps/Level_Design/6/HK/GP30OCQEZQLTQZUETW4NO4.uasset",
+				"E:/veridian/unityeiei/git/Project_Sompong/Project_Sompong/Content/__ExternalActors__/MyMap/Maps/Level_Design/3/N9/GBPFHYTQLL03234WBAO6I4.uasset",
+				"E:/veridian/unityeiei/git/Project_Sompong/Project_Sompong/Content/__ExternalActors__/MyMap/Maps/Level_Design/2/89/7XDA4XGDO0VTHJXNJGZB59.uasset",
+				"E:/veridian/unityeiei/git/Project_Sompong/Project_Sompong/Content/StarterContent/Particles/Materials/m_flare_01.uasset",
+				"E:/veridian/unityeiei/git/Project_Sompong/Project_Sompong/Content/__ExternalActors__/MyMap/Maps/Level_Design/D/TF/6MRHCEZ3GH29BDHAAU9BMJ.uasset",
+				"E:/veridian/unityeiei/git/Project_Sompong/Project_Sompong/Content/__ExternalActors__/MyMap/Maps/Level_Design/B/KM/ULCOR1N3L9UQPW7RJP0I7H.uasset",
+				"E:/veridian/unityeiei/git/Project_Sompong/Project_Sompong/Content/__ExternalActors__/MyMap/Maps/Level_Design/E/OV/6RVOWL8JL2YDQLCYP24UEV.uasset",
+				"E:/veridian/unityeiei/git/Project_Sompong/Project_Sompong/Content/__ExternalActors__/MyMap/Maps/Level_Design/3/S2/SVG0G8A78Z16Y953MDC6G9.uasset",
+				"E:/veridian/unityeiei/git/Project_Sompong/Project_Sompong/Content/VFX/Fireball/BP_MagicFIreBall.uasset",
+				"E:/veridian/unityeiei/git/Project_Sompong/Project_Sompong/Content/ThirdPerson/Blueprints/AI/BP_MagicEnemy.uasset",
+				"E:/veridian/unityeiei/git/Project_Sompong/Project_Sompong/Content/DMG_System/BPC_DmgSystem.uasset",
+				"E:/veridian/unityeiei/git/Project_Sompong/Project_Sompong/Content/ThirdPerson/Blueprints/AI/Behavior/BT_EnemyRange.uasset",
+				"E:/veridian/unityeiei/git/Project_Sompong/Project_Sompong/Content/ThirdPerson/Blueprints/AI/BP_MeleeEnemy.uasset",
+				"E:/veridian/unityeiei/git/Project_Sompong/Project_Sompong/Content/ThirdPerson/Blueprints/AI/Logic/Tasks/BTT_MaleeAttack.uasset",
+				"E:/veridian/unityeiei/git/Project_Sompong/Project_Sompong/Content/ThirdPerson/Blueprints/AI/Behavior/BT_EnemyMelee.uasset",
+				"E:/veridian/unityeiei/git/Project_Sompong/Project_Sompong/Content/DMG_System/BPI_Damagable.uasset",
+				"E:/veridian/unityeiei/git/Project_Sompong/Project_Sompong/Content/ThirdPerson/Blueprints/AI/BP_Enemy.uasset",
+				"E:/veridian/unityeiei/git/Project_Sompong/Project_Sompong/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"E:/veridian/unityeiei/git/Project_Sompong/Project_Sompong/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/35/06SUVS2VMBR3J2F9JZWAOQ.uasset",
+				"E:/veridian/unityeiei/git/Project_Sompong/Project_Sompong/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/38/RB46TZ0XEE8ZF68M26V5KR.uasset",
+				"E:/veridian/unityeiei/git/Project_Sompong/Project_Sompong/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/OS/RVLVXD11DTEVLMS7HX2NMP.uasset",
+				"E:/veridian/unityeiei/git/Project_Sompong/Project_Sompong/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"E:/veridian/unityeiei/git/Project_Sompong/Project_Sompong/Content/UI/W_Win.uasset"
+			]
+		}
+	]
+}
